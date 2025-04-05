@@ -9,7 +9,7 @@ class PasoApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Contador de Pasos',
+      title: 'CONTADOR DE PASOS',
       theme: ThemeData(
         primarySwatch: Colors.blue, // Tema de la app
       ),
